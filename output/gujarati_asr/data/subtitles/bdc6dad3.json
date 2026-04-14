@@ -1,0 +1,21 @@
+{
+  "id": "bdc6dad3",
+  "filename": "A1.ogg",
+  "duration": 9.54,
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 9.538,
+      "text": "મારું નામ મયુર છે"
+    },
+    {
+      "index": 2,
+      "start": 9.538,
+      "end": 12.538,
+      "text": ""
+    }
+  ],
+  "timestamp": "2026-04-12T02:37:34.658112",
+  "updated_at": "2026-04-12T02:37:50.570840"
+}

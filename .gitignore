@@ -1,0 +1,8 @@
+# Standalone executable (too large for git)
+*.exe
+
+# Temp build files
+build_temp/
+dist/
+__pycache__/
+*.pyc
